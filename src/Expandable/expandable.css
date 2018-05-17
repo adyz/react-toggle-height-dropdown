@@ -1,0 +1,11 @@
+.expandable {
+  position: relative;
+}
+
+.expandable__content {
+  background: #eee;
+  box-shadow: 1px 1px 1px #ccc;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+}
